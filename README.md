@@ -7,3 +7,6 @@ Using a subject’s EEG reading, infer what he or she is thinking about or doing
 • Implement a dimensionality reduction algorithm    
 • Use the pipeline object from scikit-learn   
 • Classify a data stream in "real time"    
+
+
+Dataset can be downloaded here : https://physionet.org/content/eegmmidb/1.0.0/
